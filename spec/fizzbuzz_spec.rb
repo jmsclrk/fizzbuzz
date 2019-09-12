@@ -13,7 +13,7 @@ end
 
 describe 'fizzbuzz' do
   it 'returns "19" when passed 19' do
-    expect(fizzbuzz(19)).to eq '19'
+    expect(fizzbuzz(19)).to eq 19
   end
 end
 
